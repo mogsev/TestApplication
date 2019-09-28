@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/colorDivider</item>
+        <item name="colorControlHighlight">@color/colorGray400</item>
+        <item name="android:textColorPrimary">@color/colorTextPrimary</item>
+    </style>
+
+    <style name="AppTheme.BarcodeCaptureActivity" parent="AppTheme.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.Default" parent="AppTheme.NoActionBar">
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/colorWhite</item>
+    </style>
+
+    <style name="AppTheme.SplashActivity" parent="AppTheme.NoActionBar">
+        <item name="android:windowBackground">@drawable/ic_splash_screen</item>
+    </style>
+
+</resources>

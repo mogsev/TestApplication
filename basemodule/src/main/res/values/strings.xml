@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">basemodule</string>
+    <string name="text_login">Логін</string>
+    <string name="text_password">Пароль</string>
+    <string name="text_sign_in">Увійти</string>
+</resources>

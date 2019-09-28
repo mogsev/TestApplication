@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Margin -->
+    <dimen name="margin_dp_4">4dp</dimen>
+    <dimen name="margin_dp_8">8dp</dimen>
+    <dimen name="margin_dp_16">16dp</dimen>
+    <dimen name="margin_dp_32">32dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="padding_dp_16">16dp</dimen>
+
+    <!-- Text size -->
+    <dimen name="text_size_sp_12">12sp</dimen>
+    <dimen name="text_size_sp_14">14sp</dimen>
+    <dimen name="text_size_sp_15">15sp</dimen>
+
+    <dimen name="width_dp_1">1dp</dimen>
+    <dimen name="width_dp_120">120dp</dimen>
+
+    <dimen name="radius_dp_4">4dp</dimen>
+    <dimen name="radius_dp_6">6dp</dimen>
+    <dimen name="radius_dp_8">8dp</dimen>
+
+</resources>

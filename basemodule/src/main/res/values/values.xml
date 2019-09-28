@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Values of application -->
+    <integer name="lines_1">1</integer>
+    <integer name="lines_2">2</integer>
+    <integer name="lines_3">3</integer>
+
+    <integer name="max_lines_1">1</integer>
+    <integer name="max_lines_2">2</integer>
+    <integer name="max_lines_3">3</integer>
+    <integer name="max_lines_6">6</integer>
+
+    <integer name="min_lines_1">1</integer>
+    <integer name="min_lines_2">2</integer>
+    <integer name="min_lines_6">6</integer>
+
+    <integer name="max_length_4">4</integer>
+    <integer name="max_length_5">5</integer>
+    <integer name="max_length_10">10</integer>
+    <integer name="max_length_14">14</integer>
+    <integer name="max_length_18">18</integer>
+
+    <integer name="integer_0">0</integer>
+
+</resources>

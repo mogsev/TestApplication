@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BorderedEditTextView">
+        <attr name="title" format="string" />
+        <attr name="hint" format="string" />
+        <attr name="title_background" format="color" />
+        <attr name="ime_option" format="integer" />
+    </declare-styleable>
+
+    <style name="BorderedEditText.Default" parent="@android:style/Widget.EditText">
+        <item name="android:paddingTop">@dimen/padding_dp_16</item>
+        <item name="android:paddingBottom">@dimen/padding_dp_16</item>
+        <item name="android:paddingLeft">@dimen/padding_dp_16</item>
+        <item name="android:paddingRight">@dimen/padding_dp_16</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textColorHint">@color/colorWhite</item>
+        <item name="android:textSize">@dimen/text_size_sp_14</item>
+    </style>
+
+</resources>
